@@ -1,0 +1,1 @@
+import{j as s,c as r,i as t,U as n}from"./VrtZl-kz.js";const o={};function c(e,a){return t(),r("th",null,[n(e.$slots,"default")])}const _=Object.assign(s(o,[["render",c]]),{__name:"ProseTh"});export{_ as default};
